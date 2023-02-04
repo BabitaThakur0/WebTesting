@@ -1,4 +1,4 @@
-package Webtesting;
+package webTesting;
 
 /**
  * Hello world!
